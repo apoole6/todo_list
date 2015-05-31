@@ -154,13 +154,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootstrap-sass (~> 3.3.3)
-  bootstrap3-datetimepicker-rails (~> 4.0.0)
+  bootstrap-sass
+  bootstrap3-datetimepicker-rails
   byebug
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
   jquery-rails
-  momentjs-rails (>= 2.9.0)
+  momentjs-rails
   rails (= 4.2.1)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
